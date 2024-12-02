@@ -1,0 +1,11 @@
+name: SweetTimeController
+version: '${version}'
+main: top.mrxiaom.stc.SweetTimeController
+api-version: 1.13
+depend: [  ]
+softdepend: [ PlaceholderAPI ]
+authors: [ MrXiaoM ]
+commands:
+  sweettimecontroller:
+    description: 'The main command of SweetTimeController'
+    aliases: [ stc ]
